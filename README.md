@@ -1,15 +1,18 @@
 # CSE208 | Data Structures and Algorithms 2 
 
 - This is the second part of Data Structures and Algorithms course of CSE, BUET. The course is designed to cover the following topics:
+  - Algorithms:
     - Graph Algorithms (BFS, DFS, SCS etc)
     - Minimum Spanning Tree (Kruskal's and Prim's Algorithm)
     - Single Source Shortest Path (Djikstra and Bellman-Ford Algorithm)
     - All Pair Shortest Path (DP by Matrix Multiplication and Floyd-Warshall Algorithm)
     - Max Flow (Edmonds Karp Algorithm and FOrd Fulkerson Algorithm)
-    - Fibonacci Heap Implementation
-    - Red Black Tree Implementation
-    - Hash Table
     - Branch and Bound Algorithm (Band Matrix Algorithm)
+
+  - Data Structures: 
+    - Fibonacci Heap 
+    - Red Black Tree 
+    - Hash Table
 
 - You can find the first part of the course in the repository [CSE 204 | DSA I](https://github.com/MdRaihanSobhan/CSE-204---Data-Structures-and-Algorithms-1)
 
