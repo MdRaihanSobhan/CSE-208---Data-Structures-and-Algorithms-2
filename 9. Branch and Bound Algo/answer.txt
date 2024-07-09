@@ -1,0 +1,11 @@
+n = 10 	ans = 4
+n = 9	ans = 3
+n = 8	ans = 2
+n = 10	ans = 4
+n = 11	ans = 4
+n = 7	ans = 4
+n = 8	ans = 3
+n = 16	ans= 4
+n = 24	ans = 3
+n = 12	ans = 4
+n = 12	ans = 3
