@@ -26,8 +26,8 @@ Have a glance at the [`course outline`](/course_outline.pdf)
   - [Prim's Algorithm](/2.%20Minimum%20Spanning%20Tree/MST%20Offline/)
 - Week-4 | Offline 2 | [SSSP](/3.%20Single%20Source%20Shortest%20Path/SSSP%20Offline/)
   - Topic: Single Source Shortest Path
-  - [Djikstra Algorithm](/3.%20Single%20Source%20Shortest%20Path/SSSP%20Offline/)
-  - [Bellman-Ford Algorithm](/3.%20Single%20Source%20Shortest%20Path/SSSP%20Offline/)
+  - [Djikstra Algorithm](/3.%20Single%20Source%20Shortest%20Path/SSSP%20Offline/dijkstra.cpp)
+  - [Bellman-Ford Algorithm](/3.%20Single%20Source%20Shortest%20Path/SSSP%20Offline/bellman_ford.cpp)
 - Week-5 | Offline 3 | [APSP](/4.%20All%20Pair%20Shortest%20Path/)
   - Topic: All Pair Shortest Path
   - [DP by Matrix Multiplication](/4.%20All%20Pair%20Shortest%20Path/Matrix_Multiplication_APSP.cpp)
