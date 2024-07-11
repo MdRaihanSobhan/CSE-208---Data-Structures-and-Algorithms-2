@@ -30,7 +30,7 @@ Have a glance at the [`course outline`](/course_outline.pdf)
   - [Bellman-Ford Algorithm](/3.%20Single%20Source%20Shortest%20Path/SSSP%20Offline/bellman_ford.cpp)
 - Week-5 | Offline 3 | [APSP](/4.%20All%20Pair%20Shortest%20Path/)
   - Topic: All Pair Shortest Path using Floyd Warshall Algorithm and Matrix Multiplication
-  - [Simple Solution](/4.%20All%20Pair%20Shortest%20Path/1.%20Simple%20Solution/)
+  - [Simple Solution](/4.%20All%20Pair%20Shortest%20Path/1.%20Simple%20Solution/) (Moodle Submitted Version | Only the shortest path length is calculated)
     - [Floyd-Warshall Algorithm](/4.%20All%20Pair%20Shortest%20Path/1.%20Simple%20Solution/Floyd_Warshal_APSP.cpp)
     - [Matrix Multiplication](/4.%20All%20Pair%20Shortest%20Path/1.%20Simple%20Solution/Matrix_Multiplication_APSP.cpp)
   - [Smart Solution](/4.%20All%20Pair%20Shortest%20Path/2.%20OOP%20Based%20Solution%20with%20Path%20Finding/) (Using OOP, Including steps of shortest paths)
