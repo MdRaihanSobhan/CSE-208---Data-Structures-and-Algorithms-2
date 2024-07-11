@@ -21,11 +21,11 @@ Have a glance at the [`course outline`](/course_outline.pdf)
 
 ## Offline Assignments:
 - Week-3 | Offline 1 | [MST](/2.%20Minimum%20Spanning%20Tree/MST%20Offline/)
-  - Topic: Minimum Spanning Tree
+  - Topic: Minimum Spanning Tree using Kruskal's and Prim's Algorithm
   - [Kruskal's Algorithm](/2.%20Minimum%20Spanning%20Tree/MST%20Offline/)
   - [Prim's Algorithm](/2.%20Minimum%20Spanning%20Tree/MST%20Offline/)
 - Week-4 | Offline 2 | [SSSP](/3.%20Single%20Source%20Shortest%20Path/SSSP%20Offline/)
-  - Topic: Single Source Shortest Path
+  - Topic: Single Source Shortest Path using Djikstra and Bellman-Ford Algorithm
   - [Djikstra Algorithm](/3.%20Single%20Source%20Shortest%20Path/SSSP%20Offline/dijkstra.cpp)
   - [Bellman-Ford Algorithm](/3.%20Single%20Source%20Shortest%20Path/SSSP%20Offline/bellman_ford.cpp)
 - Week-5 | Offline 3 | [APSP](/4.%20All%20Pair%20Shortest%20Path/)
@@ -37,7 +37,7 @@ Have a glance at the [`course outline`](/course_outline.pdf)
     - [Floyd-Warshall Algorithm](/4.%20All%20Pair%20Shortest%20Path/2.%20OOP%20Based%20Solution%20with%20Path%20Finding/1.%20APSP_Floyd_Warshall.cpp)
     - [Matrix Multiplication](/4.%20All%20Pair%20Shortest%20Path/2.%20OOP%20Based%20Solution%20with%20Path%20Finding/2.%20APSP_Matrix_Multiplication.cpp)
 - Week-6 | Offline 4 | [Max Flow](/5.%20Max%20Flow/Offline%20Max%20Flow/)
-  - Topic: Baseball Elimination Problem | Max Flow
+  - Topic: Baseball Elimination Problem | Max Flow using Edmonds Karp Algorithm
   - [Baseball Elimination Problem using Edmonds Karp Algorithm](/5.%20Max%20Flow/Offline%20Max%20Flow/Solve_Using_Edmonds_Karp.cpp)
 - Week-8 | Offline 5 | [Heap](/6.%20Fibonacci%20Heap/)
   - Topic: Fibonacci Heap
