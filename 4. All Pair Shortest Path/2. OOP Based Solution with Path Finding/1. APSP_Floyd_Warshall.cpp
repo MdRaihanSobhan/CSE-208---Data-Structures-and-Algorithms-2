@@ -90,6 +90,7 @@ void printPath(vector<int>& path)
 
 int main() {
     int nodes, edges;
+    cout<<"Enter the number of nodes and edges"<<endl; 
     cin >> nodes >> edges;
     int u, v;
     double w;
