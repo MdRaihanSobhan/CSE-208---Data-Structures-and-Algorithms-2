@@ -29,9 +29,13 @@ Have a glance at the [`course outline`](/course_outline.pdf)
   - [Djikstra Algorithm](/3.%20Single%20Source%20Shortest%20Path/SSSP%20Offline/dijkstra.cpp)
   - [Bellman-Ford Algorithm](/3.%20Single%20Source%20Shortest%20Path/SSSP%20Offline/bellman_ford.cpp)
 - Week-5 | Offline 3 | [APSP](/4.%20All%20Pair%20Shortest%20Path/)
-  - Topic: All Pair Shortest Path
-  - [DP by Matrix Multiplication](/4.%20All%20Pair%20Shortest%20Path/Matrix_Multiplication_APSP.cpp)
-  - [Floyd-Warshall Algorithm](/4.%20All%20Pair%20Shortest%20Path/Floyd_Warshal_APSP.cpp)
+  - Topic: All Pair Shortest Path using Floyd Warshall Algorithm and Matrix Multiplication
+  - [Simple Solution](/4.%20All%20Pair%20Shortest%20Path/1.%20Simple%20Solution/)
+    - [Floyd-Warshall Algorithm](/4.%20All%20Pair%20Shortest%20Path/1.%20Simple%20Solution/Floyd_Warshal_APSP.cpp)
+    - [Matrix Multiplication](/4.%20All%20Pair%20Shortest%20Path/1.%20Simple%20Solution/Matrix_Multiplication_APSP.cpp)
+  - [Smart Solution | OOP | Steps of shortest paths)](/4.%20All%20Pair%20Shortest%20Path/2.%20OOP%20Based%20Solution%20with%20Path%20Finding/)
+    - [Floyd-Warshall Algorithm](/4.%20All%20Pair%20Shortest%20Path/2.%20OOP%20Based%20Solution%20with%20Path%20Finding/1.%20APSP_Floyd_Warshall.cpp)
+    - [Matrix Multiplication](/4.%20All%20Pair%20Shortest%20Path/2.%20OOP%20Based%20Solution%20with%20Path%20Finding/2.%20APSP_Matrix_Multiplication.cpp)
 - Week-6 | Offline 4 | [Max Flow](/5.%20Max%20Flow/Offline%20Max%20Flow/)
   - Topic: Baseball Elimination Problem | Max Flow
   - [Baseball Elimination Problem using Edmonds Karp Algorithm](/5.%20Max%20Flow/Offline%20Max%20Flow/Solve_Using_Edmonds_Karp.cpp)
