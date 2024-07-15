@@ -16,12 +16,6 @@
     
 - You can find the first part of the course in the repository [CSE 204 | DSA I](https://github.com/MdRaihanSobhan/CSE-204---Data-Structures-and-Algorithms-1)
 
-## Disclaimer
-
-This repository is an archive of the author's solutions to course assignments. These solutions are provided as-is and are not guaranteed to be error-free or comprehensive. The author accepts no responsibility for any issues or damage resulting from the use of these solutions. They are intended for reference only, and copying them for academic purposes is strongly discouraged. The author is not liable for any consequences arising from academic dishonesty.
-
-
-
 Have a glance at the [`course outline`](/course_outline.pdf)
 
 ## Offline Assignments:
@@ -100,4 +94,8 @@ Have a glance at the [`course outline`](/course_outline.pdf)
 - Week-11-12 | Quiz
 - Week-13-14 | Offline 8 | [Branch and Bound Algorithm](/9.%20Branch%20and%20Bound%20Algo/)
 
-## CAUTION!!! This repository contains all my submissions for the course CSE 208 , DSA II. As these are direct submissions on moodle, the solutions may not be 100% correct or complete in some cases, specially for the onlines. 
+
+## Disclaimer
+
+This repository is an archive of the author's solutions to course assignments. These solutions are provided as-is and are not guaranteed to be error-free or comprehensive. The author accepts no responsibility for any issues or damage resulting from the use of these solutions. They are intended for reference only, and copying them for academic purposes is strongly discouraged. The author is not liable for any consequences arising from academic dishonesty.
+
